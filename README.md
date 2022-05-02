@@ -7,7 +7,7 @@ I really enjoy learning languages and frameworks like Node.js and express.
 I also enjoy Building Schemas with mongoose(MongoDB), Managing REST API And Think outside the box.
 
 ## My Skills 🔧
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, C#
+- ⚙️ Node JS
+- 👁️ CSS, HTML
+- 💽 MongoDB
