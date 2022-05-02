@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/gRW0gwJ/ORMOSHE.png =250x250)
+![Logo](https://i.ibb.co/gRW0gwJ/ORMOSHE.png width=100)
 
 ## ✌️ Or Moshe
 I'm Or from Israel, and I Develop Web Apps.
