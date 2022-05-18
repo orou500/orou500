@@ -9,7 +9,7 @@ I also enjoy Building Schemas with mongoose(MongoDB), Managing REST API And Thin
 ## My Skills 🔧
 - 👨‍💻 JavaScript, C#
 - ⚙️ Node JS
-- 👁️ CSS, HTML
+- 👁️ React
 - 💽 MongoDB
 
 ## Contact
